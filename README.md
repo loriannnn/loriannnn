@@ -9,14 +9,7 @@
 -  -friendly project to improve my skills. **
 - 📫 How to reach me lorianarua@gmail.com
 - 😄 Pronouns: **She**
-- ⚡ Fun fact: **When I code, I feel like
--  I'm solving a puzzle. Each new project
--  helps me grow, and I truly believe in
--  the power of technology to change
--  the world! In my free time,
--  I'm either exploring the latest tech
--  developments or planning my next
--  learning adventure.**
+- ⚡ Fun fact: **When I code, I feel like I'm solving a puzzle. Each new project helps me grow, and I truly believe the power of technology to change the world! In my free time, I'm either exploring the latest tech developments or planning my next learning adventure.**
 
 <!---
 loriannnn/loriannnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
